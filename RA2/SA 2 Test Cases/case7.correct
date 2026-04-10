@@ -1,0 +1,14 @@
+Enter the name of a file to read from:
+
+Error: Unrecognizable command in line 6: delete
+
+Error: Unrecognizable command in line 8: clr
+
+Total lines: 14
+Commented lines: 4
+Valid Command lines: 6
+Invalid Command lines: 2
+DIR commands: 1
+CD commands: 1
+COPY commands: 3
+DEL commands: 1

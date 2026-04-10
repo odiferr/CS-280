@@ -1,0 +1,20 @@
+Enter the name of a file to read from:
+
+Error: Unrecognizable command in line 1: 3456
+
+Error: Unrecognizable command in line 2: erase
+
+Error: Unrecognizable command in line 6: send
+
+Error: Unrecognizable command in line 7: kill
+
+Error: Unrecognizable command in line 11: execute
+
+Total lines: 12
+Commented lines: 0
+Valid Command lines: 0
+Invalid Command lines: 5
+DIR commands: 0
+CD commands: 0
+COPY commands: 0
+DEL commands: 0

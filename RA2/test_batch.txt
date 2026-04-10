@@ -1,0 +1,5 @@
+Line 1 - regular
+:: Comment here
+
+REM Another comment
+DIR /W

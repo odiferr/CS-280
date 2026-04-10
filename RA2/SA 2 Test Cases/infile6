@@ -1,0 +1,11 @@
+cd        mydir 
+		   
+del prog1      
+
+delete myfile
+
+    
+copy file1 file2
+copy file1 file2
+      copy file1 file2
+Dir myfile

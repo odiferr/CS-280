@@ -1,0 +1,14 @@
+Rem change directory
+cd        mydir 
+rem delete prog1 and myfile		   
+del prog1      
+
+delete myfile
+
+   clr the screen 
+:: copy file1 to other files	  
+copy file1 file2
+copy file1 file3
+      copy file1 file4
+::list contents of current directory
+Dir myfile

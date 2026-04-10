@@ -1,0 +1,9 @@
+rem cd        mydir 
+		   
+REM del prog1      
+:: execute next command
+Rem delete myfile
+
+    
+::copy file1 file2
+
